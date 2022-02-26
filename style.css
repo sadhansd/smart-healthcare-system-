@@ -1,0 +1,104 @@
+body
+{
+    background: #7CBAAF;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    
+}
+#home
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: -0.063em;
+    top: -0.125rem;
+background: url(home.jpeg);
+ background-repeat: no-repeat;
+background-size: 100%; 
+
+}
+.logo
+{
+    height: 3%;
+    border-radius: 100%;
+}
+
+ .nav-container
+{
+    
+   
+position: absolute;
+width: 100%;
+height: 3rem;
+
+/* left: 121.28px;
+top: 14.24px; */
+
+
+}  
+/* .nav
+{
+    height: 3%;
+    
+} */
+.desc
+{
+    position: absolute;
+width: 16.38rem;
+height:5rem;
+left: 3.131rem;
+top: 13.249rem;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 1.079rem;
+line-height: 1.625;
+/* or 153% */
+
+
+color: #FFFFFF;
+}
+
+.caption
+{
+position: absolute;
+width: 282.65px;
+height: 94.64px;
+left: 50.1px;
+top: 104.41px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 34.7674px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+.check-up
+{
+    position: absolute;
+width: 126.03px;
+height: 61.7px;
+left: 95.45px;
+top: 310.59px;
+
+background: #FFFFFF;
+box-shadow: -5.27325px 5.27325px 10.5465px rgba(0, 0, 0, 0.25);
+border-radius: 26.3662px;
+}
+
+.btnav
+{
+width: 118.12px;
+height: 33.75px;
+left: 100%;
+top: 1%;
+background: #FFFFFF;
+box-shadow: 1.05465px 5.27325px 5.27325px rgba(0, 0, 0, 0.25);
+border-radius: 15.8197px;
+}
